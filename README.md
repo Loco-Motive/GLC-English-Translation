@@ -14,7 +14,7 @@
 - Single Pak Game Mode
 - Champ's Bodyguard
 - Secret unlock name (New one is LOCOM)
-.. a ton of things I've forgotten
+- .. a ton of things I've forgotten
 
 ## Instructions
  1. Acquire the no-intro version of Guru Logic Champ (Japan). CRC32 de68f54c SHA-1 77588b6e802de57d1d826c4d43e4c3b0e3aebdae
