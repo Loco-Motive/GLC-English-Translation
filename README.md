@@ -3,6 +3,19 @@
  This is an English translation of the Japanese Gameboy Advance game Guru Logic Champ. 
 ## Why
  The game had enough English in it to be relatively playable so why bother? The translation didn't exist, and it's one of my favorite games of all time. 
+
+## What changed?
+- Tutorial text(original normatt project)
+- English puzzle names (Some in original, some mine)
+- Player select screen + delete + dialogs
+- Pause Menu
+- All cutscenes (both text and graphics)
+- All Hakases labo menus
+- Single Pak Game Mode
+- Champ's Bodyguard
+- Secret unlock name (New one is LOCOM)
+.. a ton of things I've forgotten
+
 ## Instructions
  1. Acquire the no-intro version of Guru Logic Champ (Japan). CRC32 de68f54c SHA-1 77588b6e802de57d1d826c4d43e4c3b0e3aebdae
  2. Download the .ips file "Guru Logic Champ (Eng v1).ips"
