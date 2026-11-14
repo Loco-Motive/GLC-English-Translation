@@ -14,7 +14,8 @@
 - There was a name entry you could use in the original Japanese to unlock the whole game. It was in Kanji though. The new secret name is "LOCOM". 
 - There is one Japanese character left in the game on purpose. Can you find it?
 ## Versions
- 11/13/2026 v1
+- 11/13/2026 v1
+- 11/14/2026 v.1.1 Found a bug when loading the third tutorial when entering Rescue 07. Fixed. 
 ## Credits
 I started with the Normmatt project and continued from there. https://github.com/Normmatt/Guru-Logic-Champ-GBA-Translation
 
