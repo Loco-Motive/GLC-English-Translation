@@ -11,6 +11,7 @@
 - Pause Menu
 - All cutscenes (both text and graphics)
 - All Hakases labo menus
+- Script edits / Jokesmithing. Japanese is denser than english, so it had to be truncated and rewritten to be both concise and funny. 
 - Single Pak Game Mode
 - Champ's Bodyguard
 - Secret unlock name (New one is LOCOM)
