@@ -29,7 +29,8 @@
 - There is one Japanese character left in the game on purpose. Can you find it?
 ## Versions
 - 11/13/2026 v1
-- 11/14/2026 v.1.1 Found a bug when loading the third tutorial when entering Rescue 07. Fixed. 
+- 11/14/2026 v1.1 Found a bug when loading the third tutorial when entering Rescue 07. Fixed.
+- 11/15/2026 v1.2 English on title screen (without ruining the original)
 ## Credits
 I started with the Normmatt project and continued from there. https://github.com/Normmatt/Guru-Logic-Champ-GBA-Translation
 
