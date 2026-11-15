@@ -15,6 +15,7 @@
 - Single Pak Game Mode
 - Champ's Bodyguard
 - Secret unlock name (New one is LOCOM)
+- Title Screen
 - .. a ton of things I've forgotten
 
 ## Instructions
